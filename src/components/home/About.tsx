@@ -13,12 +13,10 @@ import {
 import Autoplay from "embla-carousel-autoplay";
 
 const trustees = [
-    { name: "Mr. Sumit Sinha", role: "Founder", image: "/assets/trusties/sumit_sinha.jpg" },
-    { name: "Mr. Subodh Jaiswal", role: "Co-Founder", image: "/assets/trusties/subodh_jaiswal.jpg" },
-    { name: "Mr. Kaushal Kumar Dubey", role: "Co-Founder", image: "/assets/trusties/kaushal_kumar_dubey.jpg" },
     { name: "Smt. Neelam Singh", role: "Chairman", image: "/assets/trusties/neelam_singh.jpeg" },
     { name: "Smt. Akriti Singh", role: "Vice Chairman", image: "/assets/trusties/akriti_singh.jpg" },
     { name: "Mr. Amit Kumar Singh", role: "Secretary", image: "/assets/trusties/amit_singh.jpg" },
+    { name: "Mr. Niyaz Ahamad", role: "Manager", image: "/assets/trusties/niyaz.jpg" },
 ];
 
 const focusAreas = [
